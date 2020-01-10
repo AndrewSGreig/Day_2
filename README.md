@@ -1,0 +1,14 @@
+# Day_2
+    - functions
+    - Variables
+    - Comparison operators
+        - Concatenate
+            - ++
+            - 
+    - Functions
+        - Ternary
+        - Conditional logic
+            - If, case
+    - Tests 
+        - Minitest
+            - Assert_equals
